@@ -1,2 +1,3 @@
 # html
-to learn basic html and css programing
+first we will try to learn github and basic commands.
+
